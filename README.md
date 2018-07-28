@@ -15,9 +15,10 @@
  # Accuracy Table #
 ## Overall accuracy of dataset over different model ##
 
-    |  SVM    | DecisionTree |   KNN   | LogisticR
-----|---------|--------------|---------|------------   
-acc | 0.98095 | 0.97142      | 0.97142 | 0.96190
+
+        |  SVM    | DecisionTree | KNN     | LogisticR
+    ----|---------|--------------|---------|-------------
+    acc | 0.98095 | 0.97142      | 0.97142 | 0.96190
 
 
 ## Accuracy of Petal and Sepal seperatly ##
