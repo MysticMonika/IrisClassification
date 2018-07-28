@@ -16,7 +16,7 @@
 ## Overall accuracy of dataset over different model ##
 
     |  SVM    | DecisionTree |   KNN   | LogisticR
-----|---------|--------------|---------|------------    
+----|---------|--------------|---------|------------   
 acc | 0.98095 | 0.97142      | 0.97142 | 0.96190
 
 
